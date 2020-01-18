@@ -38,8 +38,8 @@ class iptorrents(object):
     #
     # SET THESE VALUES!!
     #
-    username = ""
-    password = ""
+    username = "awareunlikeu"
+    password = "eatshitanddie12"
     ###########################################################################
     url = 'https://iptorrents.com'
     name = 'IPTorrents'
